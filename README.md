@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on something cool!
-- 🌱 I'm currently learning with help from docs.github.com
+- 🌱 I'm currently learning with help from [docs.github.com](docs.github.com)
 
 <!--
 **7niyaij/7niyaij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
